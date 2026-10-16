@@ -1,0 +1,81 @@
+/* Yacaré Seguros — gerado a partir de tokens.json */
+
+:root, [data-theme="claro"] {
+  --verde-yacare: #628151;
+  --verde-medio: #516b43;
+  --verde-profundo: #1f2f26;
+  --terracota: #cc8052;
+  --off-white: #f5f1ee;
+  --branco: #ffffff;
+  --preto-logo: #1d1d1b;
+  --fundo: var(--off-white);
+  --fundo-marca: var(--verde-yacare);
+  --texto: var(--verde-profundo);
+  --texto-marca: var(--verde-medio);
+  --texto-sobre-marca: var(--branco);
+  --destaque: var(--terracota);
+}
+[data-theme="escuro"] {
+  --fundo: var(--verde-profundo);
+  --fundo-marca: var(--verde-medio);
+  --texto: var(--off-white);
+  --texto-marca: var(--off-white);
+}
+:root {
+  --margem-post: 112px;
+  --moldura-arredondada: 56px;
+  --moldura-reta: 98px;
+  --dente-largura: 270px;
+  --dente-altura: 64px;
+  --raio-moldura: 45px;
+  --raio-reto: 0px;
+  --raio-meia-lua: 50%;
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-sans: "Quicksand", "Nunito", system-ui, sans-serif;
+}
+.titulo {
+  font-family: var(--font-display);
+  font-size: 84px;
+  line-height: 76px;
+  font-weight: 300;
+}
+.titulo-enfase {
+  font-family: var(--font-display);
+  font-size: 84px;
+  line-height: 76px;
+  font-weight: 700;
+  font-style: italic;
+}
+.chamada-forte {
+  font-family: var(--font-sans);
+  font-size: 56px;
+  line-height: 64px;
+  font-weight: 700;
+}
+.chamada {
+  font-family: var(--font-sans);
+  font-size: 56px;
+  line-height: 64px;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Fraunces";
+  src: url("../fonts/Fraunces-Italic-VariableFont_SOFT%2CWONK%2Copsz%2Cwght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Fraunces";
+  src: url("../fonts/Fraunces-VariableFont_SOFT%2CWONK%2Copsz%2Cwght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Quicksand";
+  src: url("../fonts/Quicksand-VariableFont_wght.ttf") format("truetype");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+}

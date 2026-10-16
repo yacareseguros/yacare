@@ -1,0 +1,1 @@
+Approved posts (1080×1350) and carousel slides. Use them as the reference for rhythm, scale and placement: headline bottom-left in `titulo`, logo bottom-right, partner marks bottom-left in the footer, zigzag between photo and colour.

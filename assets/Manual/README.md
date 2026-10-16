@@ -1,0 +1,1 @@
+Source documents: `yacare-seguros-marca.pdf` (the brand book: concept, palette, logo construction and clear space, applications, post grids) and `paleta-de-cores.pdf` (the colour sheet with RGB, CMYK and HEX values).
